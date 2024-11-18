@@ -28,3 +28,4 @@
 
 10) To predict the result is very effective 
 
+![Screenshot 2024-11-18 152527](https://github.com/user-attachments/assets/097020ad-4f5e-4d14-b331-12aac93959dd)
